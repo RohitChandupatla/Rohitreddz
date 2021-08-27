@@ -1,7 +1,7 @@
 ## Hey 👋, I'm [Rohit Reddy Chandupatla](https://github.com/Rohitreddz)
 
 I'm Rohit Reddy Chandupatla, a native of India who now resides in Missouri. I'm pursuing my master's degree at Northwest Missouri State University.
----
+
 
 ## I'm Currently learning 💻
 
@@ -9,7 +9,7 @@ I'm Rohit Reddy Chandupatla, a native of India who now resides in Missouri. I'm 
 • Graduate Direct Project <br/>
 • Patterns and framework <br/>
 • Mobile Computing Android<br/>
----
+
 ## About me  😬
 
 • Currently interested to work as QA Automation. <br/>
