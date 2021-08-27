@@ -16,7 +16,7 @@ I'm Rohit Reddy Chandupatla, a native of India who now resides in Missouri. I'm 
 • Currently learning programming.<br/>
 • Extensive experience with Microsoft Office and Adobe Suite (Photoshop, Illustrator, Premier, Lightroom, Audition).<br/>
 • I love to explore and capture every moment. <br/>
----
+
 
 
 
